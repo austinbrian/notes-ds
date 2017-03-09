@@ -1,4 +1,4 @@
-# Notes on using Git.
+# Notes on using Git
 
 ## Four key commands
 - **git add .** - send files in the cwd to the git staging area
