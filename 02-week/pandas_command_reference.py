@@ -60,7 +60,7 @@ users.gender.describe()             # describe a single column
 users.age.mean()                    # only calculate the mean
 
 # count the number of occurrences of each value
-users.gender.value_counts()     # most useful for categorical variables
+users.gender.value_counts()     # most useful for categorical variablesœ
 users.age.value_counts()        # can also be used with numeric variables
 
 '''
