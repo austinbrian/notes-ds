@@ -16,7 +16,7 @@
 Root means squared error - returns a value in the units of the original dataset
 
 ## Loss Functions
-* Loss functions are methods of evaluating a model that you want to minimize
+* A class of functions that are methods of evaluating a model that you want to minimize
 * Ex:
   - Mean squared error
   - regularized function, which includes both MSE and a coefficient penalty
